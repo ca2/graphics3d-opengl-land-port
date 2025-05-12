@@ -1,0 +1,4 @@
+[submodule "tinyobjloader"]
+	path = tinyobjloader
+	url = ../../cpp-port/tiny-tinyobjloader
+	branch = main
